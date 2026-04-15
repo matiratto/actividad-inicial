@@ -1,4 +1,6 @@
-# TP Git Semana 1
+## Cambios en nueva rama
+
+Este cambio fue realizado en una rama secundaria.# TP Git Semana 1
 
 Alumno: Matias Ratto
 
